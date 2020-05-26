@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bangladesh National ID Application</string>
+    <string name="hint_id">Please enter ID number</string>
+    <string name="submit">Submit</string>
+    <string name="dob">Date of Birth:</string>
+    <string name="gender">Gender:</string>
+    <string name="nationality">Nationality:</string>
+    <string name="NewLine" />
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+    <string name="SA_Citizen">South African Citizen</string>
+    <string name="permanent_resident">Permanent Resident</string>
+</resources>
